@@ -19,7 +19,7 @@ To completely reproduce this research from scratch:
 
 1. Clone this repository.
 2. Install the required environment: `pip install -r requirements.txt`
-3. Provide your own Infura/Alchemy Ethereum Archive Node API key in Notebook 01 and Notebook 08.
+3. Provide your own Infura/Alchemy Ethereum Archive Node API key in place holders
 4. Execute the notebooks sequentially from `01` to `09`. 
 
 ## Core Datasets Generated

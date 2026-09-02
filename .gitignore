@@ -1,0 +1,15 @@
+# Ignore the main output folder containing massive datasets
+Thesis_Output/
+
+# Ignore all stray massive files just in case
+*.parquet
+*.csv
+
+# Exception: Force Git to upload your tiny 50-row academic samples
+!sample_data/*.parquet
+!sample_data/*.csv
+
+# Ignore Python background noise and caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

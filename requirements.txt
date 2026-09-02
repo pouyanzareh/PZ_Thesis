@@ -1,0 +1,8 @@
+polars
+hypersync
+web3
+eth-abi
+requests
+python-dateutil
+numpy
+tqdm
